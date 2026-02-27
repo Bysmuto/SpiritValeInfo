@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Cactus King",
+        "description": "Combat vs Cactus King the Boss of Windy Desert",
+        "url": "https://spiritvale.info/content/videos/cactus_king.mp4",
+        "previewImage": "https://spiritvale.mooo.info/content/videos/cactus_king.jpg",
+        "player": "html"
+    },
+    {
+        "name": "Steam Deck Controls for Spirit Vale (Upcoming RO-like Indie MMORPG)",
+        "description": "",
+        "url": "https://www.youtube.com/watch?v=1vMIeCk8PaM",
+        "previewImage": "",
+        "player": "youtube"
+    },
+    {
+        "name": "Xbox Controls for Spirit Vale (Upcoming RO-like Indie MMORPG)",
+        "description": "",
+        "url": "https://www.youtube.com/watch?v=vS4qiqyMYe8",
+        "previewImage": "",
+        "player": "youtube"
+    }
+]

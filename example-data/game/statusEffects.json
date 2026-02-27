@@ -1,0 +1,727 @@
+{
+    "Aegis": {
+        "Slug": "aegis",
+        "GameId": "Aegis",
+        "DisplayName": "Aegis"
+    },
+    "Agility": {
+        "Slug": "inner-focus",
+        "GameId": "Agility",
+        "DisplayName": "Inner Focus"
+    },
+    "AngelicBlessing": {
+        "Slug": "angelic-blessing",
+        "GameId": "AngelicBlessing",
+        "DisplayName": "Angelic Blessing"
+    },
+    "ArcaneSigil": {
+        "Slug": "arcane-sigil",
+        "GameId": "ArcaneSigil",
+        "DisplayName": "Arcane Sigil"
+    },
+    "Armored": {
+        "Slug": "armored",
+        "GameId": "Armored",
+        "DisplayName": "Armored"
+    },
+    "Barrier": {
+        "Slug": "sacred-aegis",
+        "GameId": "Barrier",
+        "DisplayName": "Sacred Aegis"
+    },
+    "Berserk": {
+        "Slug": "berserk",
+        "GameId": "Berserk",
+        "DisplayName": "Berserk"
+    },
+    "BleedCoating": {
+        "Slug": "red-maw",
+        "GameId": "BleedCoating",
+        "DisplayName": "Red Maw"
+    },
+    "Bleeding": {
+        "Slug": "bleeding",
+        "GameId": "Bleeding",
+        "DisplayName": "Bleeding"
+    },
+    "BlessedGrace": {
+        "Slug": "blessed-grace",
+        "GameId": "BlessedGrace",
+        "DisplayName": "Blessed Grace"
+    },
+    "Blessing": {
+        "Slug": "benediction",
+        "GameId": "Blessing",
+        "DisplayName": "Benediction"
+    },
+    "Blind": {
+        "Slug": "blind",
+        "GameId": "Blind",
+        "DisplayName": "Blind"
+    },
+    "BloodCrash": {
+        "Slug": "blood-crash",
+        "GameId": "BloodCrash",
+        "DisplayName": "Blood Crash"
+    },
+    "BloodFrenzy": {
+        "Slug": "blood-frenzy",
+        "GameId": "BloodFrenzy",
+        "DisplayName": "Blood Frenzy"
+    },
+    "BloodLust": {
+        "Slug": "blood-lust",
+        "GameId": "BloodLust",
+        "DisplayName": "Blood Lust"
+    },
+    "Burning": {
+        "Slug": "burning",
+        "GameId": "Burning",
+        "DisplayName": "Burning"
+    },
+    "CastReady": {
+        "Slug": "cast-ready",
+        "GameId": "CastReady",
+        "DisplayName": "Cast Ready"
+    },
+    "Cloaking": {
+        "Slug": "cloaking",
+        "GameId": "Cloaking",
+        "DisplayName": "Cloaking"
+    },
+    "ComboReady": {
+        "Slug": "combo-ready",
+        "GameId": "ComboReady",
+        "DisplayName": "Combo Ready"
+    },
+    "Conjurer": {
+        "Slug": "conjurer",
+        "GameId": "Conjurer",
+        "DisplayName": "Conjurer"
+    },
+    "Consecration": {
+        "Slug": "consecration",
+        "GameId": "Consecration",
+        "DisplayName": "Consecration"
+    },
+    "Conviction": {
+        "Slug": "conviction",
+        "GameId": "Conviction",
+        "DisplayName": "Conviction"
+    },
+    "CorpseBarrier": {
+        "Slug": "corpse-barrier",
+        "GameId": "CorpseBarrier",
+        "DisplayName": "Corpse Barrier"
+    },
+    "CorpseExplosion": {
+        "Slug": "corpse-explosion",
+        "GameId": "CorpseExplosion",
+        "DisplayName": "Corpse Explosion"
+    },
+    "Counter": {
+        "Slug": "counter",
+        "GameId": "Counter",
+        "DisplayName": "Counter"
+    },
+    "CureAll": {
+        "Slug": "mass-cure",
+        "GameId": "CureAll",
+        "DisplayName": "Mass Cure"
+    },
+    "Curse": {
+        "Slug": "curse",
+        "GameId": "Curse",
+        "DisplayName": "Curse"
+    },
+    "Damnation": {
+        "Slug": "damnation",
+        "GameId": "Damnation",
+        "DisplayName": "Damnation"
+    },
+    "DeathBond": {
+        "Slug": "death-bond",
+        "GameId": "DeathBond",
+        "DisplayName": "Death Bond"
+    },
+    "DeathBrambleEnemy": {
+        "Slug": "necrotic-presence-enemy",
+        "GameId": "DeathBrambleEnemy",
+        "DisplayName": "Necrotic Presence Enemy"
+    },
+    "DeathBramble": {
+        "Slug": "necrotic-presence",
+        "GameId": "DeathBramble",
+        "DisplayName": "Necrotic Presence"
+    },
+    "Decay": {
+        "Slug": "decay",
+        "GameId": "Decay",
+        "DisplayName": "Decay"
+    },
+    "Defiance": {
+        "Slug": "defiance",
+        "GameId": "Defiance",
+        "DisplayName": "Defiance"
+    },
+    "Deflect": {
+        "Slug": "deflect",
+        "GameId": "Deflect",
+        "DisplayName": "Deflect"
+    },
+    "Disonnance": {
+        "Slug": "disonnance",
+        "GameId": "Disonnance",
+        "DisplayName": "Disonnance"
+    },
+    "DivineProtection": {
+        "Slug": "divine-protection",
+        "GameId": "DivineProtection",
+        "DisplayName": "Divine Protection"
+    },
+    "Divinity": {
+        "Slug": "divinity",
+        "GameId": "Divinity",
+        "DisplayName": "Divinity"
+    },
+    "EarthAttunement": {
+        "Slug": "earth-attunement",
+        "GameId": "EarthAttunement",
+        "DisplayName": "Earth Attunement"
+    },
+    "EarthBarrier": {
+        "Slug": "earth-barrier",
+        "GameId": "EarthBarrier",
+        "DisplayName": "Earth Barrier"
+    },
+    "EarthExposure": {
+        "Slug": "earth-exposure",
+        "GameId": "EarthExposure",
+        "DisplayName": "Earth Exposure"
+    },
+    "ElusiveFeint": {
+        "Slug": "feint",
+        "GameId": "ElusiveFeint",
+        "DisplayName": "Feint"
+    },
+    "EnchantArmorHoly": {
+        "Slug": "sanctify",
+        "GameId": "EnchantArmorHoly",
+        "DisplayName": "Sanctify"
+    },
+    "EnchantEarth": {
+        "Slug": "enchant-earth",
+        "GameId": "EnchantEarth",
+        "DisplayName": "Enchant Earth"
+    },
+    "EnchantFire": {
+        "Slug": "enchant-fire",
+        "GameId": "EnchantFire",
+        "DisplayName": "Enchant Fire"
+    },
+    "EnchantHoly": {
+        "Slug": "enchant-holy",
+        "GameId": "EnchantHoly",
+        "DisplayName": "Enchant Holy"
+    },
+    "EnchantPoison": {
+        "Slug": "enchant-poison",
+        "GameId": "EnchantPoison",
+        "DisplayName": "Enchant Poison"
+    },
+    "EnchantShadow": {
+        "Slug": "enchant-shadow",
+        "GameId": "EnchantShadow",
+        "DisplayName": "Enchant Shadow"
+    },
+    "EnchantUndead": {
+        "Slug": "enchant-undead",
+        "GameId": "EnchantUndead",
+        "DisplayName": "Enchant Undead"
+    },
+    "EnchantWater": {
+        "Slug": "enchant-water",
+        "GameId": "EnchantWater",
+        "DisplayName": "Enchant Water"
+    },
+    "EnchantWind": {
+        "Slug": "enchant-wind",
+        "GameId": "EnchantWind",
+        "DisplayName": "Enchant Wind"
+    },
+    "Endure": {
+        "Slug": "endure",
+        "GameId": "Endure",
+        "DisplayName": "Endure"
+    },
+    "EnergyShield": {
+        "Slug": "energy-shield",
+        "GameId": "EnergyShield",
+        "DisplayName": "Energy Shield"
+    },
+    "Enrage": {
+        "Slug": "enrage",
+        "GameId": "Enrage",
+        "DisplayName": "Enrage"
+    },
+    "FanaticFervor": {
+        "Slug": "fanatic-fervor",
+        "GameId": "FanaticFervor",
+        "DisplayName": "Fanatic Fervor"
+    },
+    "Fanaticism": {
+        "Slug": "fanaticism",
+        "GameId": "Fanaticism",
+        "DisplayName": "Fanaticism"
+    },
+    "Ferocity": {
+        "Slug": "ferocity",
+        "GameId": "Ferocity",
+        "DisplayName": "Ferocity"
+    },
+    "FireAttunement": {
+        "Slug": "fire-attunement",
+        "GameId": "FireAttunement",
+        "DisplayName": "Fire Attunement"
+    },
+    "FireBarrier": {
+        "Slug": "fire-barrier",
+        "GameId": "FireBarrier",
+        "DisplayName": "Fire Barrier"
+    },
+    "FireExposure": {
+        "Slug": "fire-exposure",
+        "GameId": "FireExposure",
+        "DisplayName": "Fire Exposure"
+    },
+    "FireRelease": {
+        "Slug": "fire-release",
+        "GameId": "FireRelease",
+        "DisplayName": "Fire Release"
+    },
+    "FlowState": {
+        "Slug": "flow-state",
+        "GameId": "FlowState",
+        "DisplayName": "Flow State"
+    },
+    "Fortify": {
+        "Slug": "fortify",
+        "GameId": "Fortify",
+        "DisplayName": "Fortify"
+    },
+    "FreezingEdge": {
+        "Slug": "frost-rounds",
+        "GameId": "FreezingEdge",
+        "DisplayName": "Frost Rounds"
+    },
+    "Frozen": {
+        "Slug": "frozen",
+        "GameId": "Frozen",
+        "DisplayName": "Frozen"
+    },
+    "FuryBond": {
+        "Slug": "fury-bond",
+        "GameId": "FuryBond",
+        "DisplayName": "Fury Bond"
+    },
+    "Grace": {
+        "Slug": "divine-grace",
+        "GameId": "Grace",
+        "DisplayName": "Divine Grace"
+    },
+    "GraveChillEnemy": {
+        "Slug": "grave-chill-enemy",
+        "GameId": "GraveChillEnemy",
+        "DisplayName": "Grave Chill Enemy"
+    },
+    "GraveChill": {
+        "Slug": "grave-chill",
+        "GameId": "GraveChill",
+        "DisplayName": "Grave Chill"
+    },
+    "GuardianBond": {
+        "Slug": "guardian-bond",
+        "GameId": "GuardianBond",
+        "DisplayName": "Guardian Bond"
+    },
+    "HasteAll": {
+        "Slug": "mass-haste",
+        "GameId": "HasteAll",
+        "DisplayName": "Mass Haste"
+    },
+    "Haste": {
+        "Slug": "haste",
+        "GameId": "Haste",
+        "DisplayName": "Haste"
+    },
+    "HealAll": {
+        "Slug": "mass-heal",
+        "GameId": "HealAll",
+        "DisplayName": "Mass Heal"
+    },
+    "HighGuard": {
+        "Slug": "high-guard",
+        "GameId": "HighGuard",
+        "DisplayName": "High Guard"
+    },
+    "HolyExposure": {
+        "Slug": "consecrated",
+        "GameId": "HolyExposure",
+        "DisplayName": "Consecrated"
+    },
+    "HolyShield": {
+        "Slug": "holy-shield",
+        "GameId": "HolyShield",
+        "DisplayName": "Holy Shield"
+    },
+    "IceRelease": {
+        "Slug": "ice-release",
+        "GameId": "IceRelease",
+        "DisplayName": "Ice Release"
+    },
+    "Invoker": {
+        "Slug": "invoker",
+        "GameId": "Invoker",
+        "DisplayName": "Invoker"
+    },
+    "LifeBond": {
+        "Slug": "life-bond",
+        "GameId": "LifeBond",
+        "DisplayName": "Life Bond"
+    },
+    "LightningCoat": {
+        "Slug": "lightning-coat",
+        "GameId": "LightningCoat",
+        "DisplayName": "Lightning Coat"
+    },
+    "LightningReflexes": {
+        "Slug": "lightning-reflexes",
+        "GameId": "LightningReflexes",
+        "DisplayName": "Lightning Reflexes"
+    },
+    "LightningRelease": {
+        "Slug": "lightning-release",
+        "GameId": "LightningRelease",
+        "DisplayName": "Lightning Release"
+    },
+    "LimitBreak": {
+        "Slug": "limit-break",
+        "GameId": "LimitBreak",
+        "DisplayName": "Limit Break"
+    },
+    "Lockdown": {
+        "Slug": "lockdown",
+        "GameId": "Lockdown",
+        "DisplayName": "Lockdown"
+    },
+    "MagicExposure": {
+        "Slug": "magic-exposure",
+        "GameId": "MagicExposure",
+        "DisplayName": "Magic Exposure"
+    },
+    "Marked": {
+        "Slug": "marked",
+        "GameId": "Marked",
+        "DisplayName": "Marked"
+    },
+    "Multistrike": {
+        "Slug": "multistrike",
+        "GameId": "Multistrike",
+        "DisplayName": "Multistrike"
+    },
+    "NPC_Berserk": {
+        "Slug": "npc-berserk",
+        "GameId": "NPC_Berserk",
+        "DisplayName": "NPC- Berserk"
+    },
+    "NPC_Enrage": {
+        "Slug": "enrage",
+        "GameId": "NPC_Enrage",
+        "DisplayName": "Enrage"
+    },
+    "NPC_Enrage_2": {
+        "Slug": "last-stand",
+        "GameId": "NPC_Enrage_2",
+        "DisplayName": "Last Stand"
+    },
+    "NPC_LightningReflexes": {
+        "Slug": "npc-lightning-reflexes",
+        "GameId": "NPC_LightningReflexes",
+        "DisplayName": "NPC- Lightning Reflexes"
+    },
+    "NPC_Sharpen": {
+        "Slug": "npc-sharpen",
+        "GameId": "NPC_Sharpen",
+        "DisplayName": "NPC- Sharpen"
+    },
+    "NPC_SpellGuard": {
+        "Slug": "npc-spell-guard",
+        "GameId": "NPC_SpellGuard",
+        "DisplayName": "NPC- Spell Guard"
+    },
+    "NPC_SpikedShell": {
+        "Slug": "npc-spiked-shell",
+        "GameId": "NPC_SpikedShell",
+        "DisplayName": "NPC- Spiked Shell"
+    },
+    "NPC_SteelGuard": {
+        "Slug": "npc-steel-guard",
+        "GameId": "NPC_SteelGuard",
+        "DisplayName": "NPC- Steel Guard"
+    },
+    "Pneuma": {
+        "Slug": "guardian-spirit",
+        "GameId": "Pneuma",
+        "DisplayName": "Guardian Spirit"
+    },
+    "PoisonExposure": {
+        "Slug": "poison-exposure",
+        "GameId": "PoisonExposure",
+        "DisplayName": "Poison Exposure"
+    },
+    "Poison": {
+        "Slug": "poison",
+        "GameId": "Poison",
+        "DisplayName": "Poison"
+    },
+    "QuickCast": {
+        "Slug": "quick-cast",
+        "GameId": "QuickCast",
+        "DisplayName": "Quick Cast"
+    },
+    "Rage": {
+        "Slug": "rage",
+        "GameId": "Rage",
+        "DisplayName": "Rage"
+    },
+    "RaiseShield": {
+        "Slug": "raise-shield",
+        "GameId": "RaiseShield",
+        "DisplayName": "Raise Shield"
+    },
+    "Reap": {
+        "Slug": "reap",
+        "GameId": "Reap",
+        "DisplayName": "Reap"
+    },
+    "ReflectShield": {
+        "Slug": "reflect-shield",
+        "GameId": "ReflectShield",
+        "DisplayName": "Reflect Shield"
+    },
+    "Resonance": {
+        "Slug": "resonance",
+        "GameId": "Resonance",
+        "DisplayName": "Resonance"
+    },
+    "Sacrament": {
+        "Slug": "sacrament",
+        "GameId": "Sacrament",
+        "DisplayName": "Sacrament"
+    },
+    "SacredFocus": {
+        "Slug": "sacred-focus",
+        "GameId": "SacredFocus",
+        "DisplayName": "Sacred Focus"
+    },
+    "SacredGround": {
+        "Slug": "sacred-ground",
+        "GameId": "SacredGround",
+        "DisplayName": "Sacred Ground"
+    },
+    "Sacrifice": {
+        "Slug": "sacrifice",
+        "GameId": "Sacrifice",
+        "DisplayName": "Sacrifice"
+    },
+    "Sanctuary": {
+        "Slug": "sanctuary",
+        "GameId": "Sanctuary",
+        "DisplayName": "Sanctuary"
+    },
+    "ShockAbsorber": {
+        "Slug": "shock-absorber",
+        "GameId": "ShockAbsorber",
+        "DisplayName": "Shock Absorber"
+    },
+    "ShoutBlood": {
+        "Slug": "blood-howl",
+        "GameId": "ShoutBlood",
+        "DisplayName": "Blood Howl"
+    },
+    "ShoutFury": {
+        "Slug": "furious-shout",
+        "GameId": "ShoutFury",
+        "DisplayName": "Furious Shout"
+    },
+    "ShoutMight": {
+        "Slug": "mighty-roar",
+        "GameId": "ShoutMight",
+        "DisplayName": "Mighty Roar"
+    },
+    "Silence": {
+        "Slug": "silence",
+        "GameId": "Silence",
+        "DisplayName": "Silence"
+    },
+    "SilentEdge": {
+        "Slug": "silent-edge",
+        "GameId": "SilentEdge",
+        "DisplayName": "Silent Edge"
+    },
+    "Slow": {
+        "Slug": "slow",
+        "GameId": "Slow",
+        "DisplayName": "Slow"
+    },
+    "SniperNest": {
+        "Slug": "sniper-nest",
+        "GameId": "SniperNest",
+        "DisplayName": "Sniper Nest"
+    },
+    "SoulDrainEnemy": {
+        "Slug": "soul-drain-enemy",
+        "GameId": "SoulDrainEnemy",
+        "DisplayName": "Soul Drain Enemy"
+    },
+    "SoulDrain": {
+        "Slug": "soul-drain",
+        "GameId": "SoulDrain",
+        "DisplayName": "Soul Drain"
+    },
+    "SpearQuicken": {
+        "Slug": "spear-quicken",
+        "GameId": "SpearQuicken",
+        "DisplayName": "Spear Quicken"
+    },
+    "SpellAuto": {
+        "Slug": "spell-auto",
+        "GameId": "SpellAuto",
+        "DisplayName": "Spell Auto"
+    },
+    "SpellEcho": {
+        "Slug": "spell-echo",
+        "GameId": "SpellEcho",
+        "DisplayName": "Spell Echo"
+    },
+    "SpellShield": {
+        "Slug": "arcanum-ward",
+        "GameId": "SpellShield",
+        "DisplayName": "Arcanum Ward"
+    },
+    "Spinning": {
+        "Slug": "spinning",
+        "GameId": "Spinning",
+        "DisplayName": "Spinning"
+    },
+    "SpiritBond": {
+        "Slug": "spirit-bond",
+        "GameId": "SpiritBond",
+        "DisplayName": "Spirit Bond"
+    },
+    "Stagger": {
+        "Slug": "stagger",
+        "GameId": "Stagger",
+        "DisplayName": "Stagger"
+    },
+    "StatusRecovery": {
+        "Slug": "status-recovery",
+        "GameId": "StatusRecovery",
+        "DisplayName": "Status Recovery"
+    },
+    "Stun": {
+        "Slug": "stun",
+        "GameId": "Stun",
+        "DisplayName": "Stun"
+    },
+    "SummonSpeed": {
+        "Slug": "summon-speed",
+        "GameId": "SummonSpeed",
+        "DisplayName": "Summon Speed"
+    },
+    "Taunt": {
+        "Slug": "taunt",
+        "GameId": "Taunt",
+        "DisplayName": "Taunt"
+    },
+    "TriggerHappy": {
+        "Slug": "trigger-happy",
+        "GameId": "TriggerHappy",
+        "DisplayName": "Trigger Happy"
+    },
+    "TwohandQuicken": {
+        "Slug": "axe-quicken",
+        "GameId": "TwohandQuicken",
+        "DisplayName": "Axe Quicken"
+    },
+    "UndeadExposure": {
+        "Slug": "desecrated",
+        "GameId": "UndeadExposure",
+        "DisplayName": "Desecrated"
+    },
+    "UnholyAura": {
+        "Slug": "unholy-aura",
+        "GameId": "UnholyAura",
+        "DisplayName": "Unholy Aura"
+    },
+    "UnholyFrenzy": {
+        "Slug": "unholy-frenzy",
+        "GameId": "UnholyFrenzy",
+        "DisplayName": "Unholy Frenzy"
+    },
+    "Unyielding": {
+        "Slug": "unyielding",
+        "GameId": "Unyielding",
+        "DisplayName": "Unyielding"
+    },
+    "VenomCoating": {
+        "Slug": "venom-coating",
+        "GameId": "VenomCoating",
+        "DisplayName": "Venom Coating"
+    },
+    "Vitality": {
+        "Slug": "vitality",
+        "GameId": "Vitality",
+        "DisplayName": "Vitality"
+    },
+    "WaterAttunement": {
+        "Slug": "water-attunement",
+        "GameId": "WaterAttunement",
+        "DisplayName": "Water Attunement"
+    },
+    "WaterBarrier": {
+        "Slug": "water-barrier",
+        "GameId": "WaterBarrier",
+        "DisplayName": "Water Barrier"
+    },
+    "WaterExposure": {
+        "Slug": "water-exposure",
+        "GameId": "WaterExposure",
+        "DisplayName": "Water Exposure"
+    },
+    "Weaken": {
+        "Slug": "weaken",
+        "GameId": "Weaken",
+        "DisplayName": "Weaken"
+    },
+    "WindAttunement": {
+        "Slug": "wind-attunement",
+        "GameId": "WindAttunement",
+        "DisplayName": "Wind Attunement"
+    },
+    "WindBarrier": {
+        "Slug": "wind-barrier",
+        "GameId": "WindBarrier",
+        "DisplayName": "Wind Barrier"
+    },
+    "WindExposure": {
+        "Slug": "wind-exposure",
+        "GameId": "WindExposure",
+        "DisplayName": "Wind Exposure"
+    },
+    "Zeal": {
+        "Slug": "zeal",
+        "GameId": "Zeal",
+        "DisplayName": "Zeal"
+    }
+}

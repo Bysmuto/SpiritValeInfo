@@ -1,0 +1,32 @@
+[
+  {
+    "title": "General",
+    "list": [
+      {
+        "question": "Is the game in Early Access?",
+        "answer": "No the game is currently in an earlier state of development called <strong>Playtest</strong>."
+      },
+      {
+        "question": "When will the game be released / made available for Early Access?",
+        "answer": "There is no fix date yet but the plan is to start Early Access in summer 2026."
+      },
+      {
+        "question": "Can I already play the game?",
+        "answer": "Yes, the game can be played during public Playtests. You can go to the <a href=\"https://store.steampowered.com/app/3767850/SpiritVale/?beta=1\" target=\"_blank\">Steam Page</a> and join the Playtest."
+      },
+      {
+        "question": "Will there be a wipe?",
+        "answer": "There will be a wipe before the start of the Early Access. No other wipes are planned."
+      }
+    ]
+  },
+  {
+    "title": "In-Game (Playtest)",
+    "list": [
+      {
+        "question": "Can I reset my stats / skills?",
+        "answer": "Yes, the <strong>Waybinder</strong> NPC in Nevaris next to the Waypoint offers free stat and skill resets."
+      }
+    ]
+  }
+]

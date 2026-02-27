@@ -1,0 +1,2264 @@
+{
+    "Dawnstar": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Wraithlight": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Stormburst Crossbow": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Crusader Sword": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Warborn Aegis": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Bronze Crescent": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Holy Aegis": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "SanctifiedChest": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "SanctifiedLegs": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "SanctifiedFeet": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Mystic Hood": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "White Bishop's Hood": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Royal Crest": {
+        "map": "Castle Keep",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Azure Crown": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Scholar Glasses": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Codex Umbra": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Codex Vitae": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Necronomicon": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Cerulean Scepter": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Iron Ankh": {
+        "map": "Castle Library",
+        "materials": {
+            "Ingot Steel": 150
+        }
+    },
+    "Top Hat": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Discipline Band": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Ghostly Hat": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Pumpkin Head": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Demon Cat": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Codex": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Longbow": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Gravestone Breaker": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Pistol": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Codex Binding Light": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Blood Clip": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Scroll Charm": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "ClericChest": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "ClericLegs": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "ClericFeet": {
+        "map": "Cemetery",
+        "materials": {
+            "Branch Dead": 50
+        }
+    },
+    "Moonshadow Hat": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Hexweaver Hat": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Bloodbound": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Voidthreads": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Mindweave": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Reaper Scythe": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Chains of Binding": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Binding Spirits Staff": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Blunderbuss": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Twinblade": {
+        "map": "Dark Forest",
+        "materials": {
+            "Moonrock": 100
+        }
+    },
+    "Hellhorn Hood": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Spikesteel Helm": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "SoulbinderChest": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "SoulbinderLegs": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "SoulbinderFeet": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Sunbound Mitts": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Flame Tongue Kunai": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Bone Channeler": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Hornbrand": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Obsidian Band": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Onyx Bolt": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Molten Core Buckler": {
+        "map": "Demon's Maw",
+        "materials": {
+            "Ash": 150
+        }
+    },
+    "Feathered Scout Hat": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Falcon Band": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Stiletto": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Parrying Knife": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Scrapfang": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Stonepoint Spear": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Crown of Spikes": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Backpack": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "Knuckleband": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Tree Sap": 50
+        }
+    },
+    "WindstriderChest": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "WindstriderLegs": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "WindstriderFeet": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Crimson Crest": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Tinker Goggles": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "War Axe": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Solar Spear": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Embershard": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Sun Lion Crest": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Festival Rockets": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Obsidian Loop": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Gold Ore": 50
+        }
+    },
+    "Battle Bonnet": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Dustweaver Hat": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Windroot": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Zephyrlight": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Stormpiercer": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Skybreaker Staff": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Star": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Bloom Ring": {
+        "map": "Desert Field 3",
+        "materials": {
+            "Foxtail": 50
+        }
+    },
+    "Thief Mask": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Shady Specs": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Blindfold": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Witch's Whisk": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Runesmasher": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Brimblade": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Swift Fang": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Dualblade Sheath": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Skull Pendant": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Archer's Beads": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "ThiefChest": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "ThiefLegs": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "ThiefFeet": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Knight's Glory": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Royal Dagger": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Jagtooth": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Rifle": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Skull Emblem": {
+        "map": "Dungeon Outside",
+        "materials": {
+            "Spider Web": 75
+        }
+    },
+    "Spooky Spell Hat": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Forest Friend Hat": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Wildroot Veil": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Verdant Core": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Sun Emblem": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Oak Bow": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Willow Staff": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Bear Backpack": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Wilderness Pack": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "Cloud Loop": {
+        "map": "Enchanted Forest",
+        "materials": {
+            "Pouch Fairy Dust": 75
+        }
+    },
+    "MageChest": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "MageLegs": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "MageFeet": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Chirpy Hat": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Happy Chipper Hat": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Knife": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Sword": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Wooden Guard": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Mace": {
+        "map": "Forest Field 1",
+        "materials": {
+            "Seed": 25
+        }
+    },
+    "Potions": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Golden Hoop": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Sunflower Clip": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "NoviceChest": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "NoviceLegs": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "NoviceFeet": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Chicky Hood": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Bear Hug Hood": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Bubblebeast Hood": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Rod": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Iron Spear": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Slingshot": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Axe": {
+        "map": "Forest Field 2",
+        "materials": {
+            "Tree Bark": 25
+        }
+    },
+    "Emberhide Helm": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Horned Crusader Helm": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Str": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Dex": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Int": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Vit": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Agi": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Glove_Luk": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Heaven's Orbit": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Meteoric Staff": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Luxbane": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Thundercoil": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Spineshard": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Grim Reaper Scythe": {
+        "map": "Forge",
+        "materials": {
+            "Obsidian": 200
+        }
+    },
+    "Ram Skull Mask": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Curse Tag": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Tribal Mask": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Iron Reaver": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Codex First Hymn": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Shotgun": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Digger's Flask": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Treasure Box": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "Arrowcatch Wall": {
+        "map": "Goblin Cave",
+        "materials": {
+            "Coal Hard": 75
+        }
+    },
+    "BerserkChest": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "BerserkLegs": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "BerserkFeet": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Ironshade Helm": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Oathbound Helm": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Beast Helm": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Wasteland Cleaver": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Spiked Club": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Recurve Bow": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Gatling Gun": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "War Banner": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Doom Keg": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Bronze Plugs": {
+        "map": "Goblin Village",
+        "materials": {
+            "Ingot Iron": 75
+        }
+    },
+    "Valiant Crown": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Centurion Helm": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Winged Helm": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Str": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Dex": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Int": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Vit": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Agi": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Armor_Luk": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Skullhacker": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Warlord Emblem Shield": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Stormfeather Kunai": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Sniper Rifle": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Tempest Staff": {
+        "map": "Goblin Warcamp",
+        "materials": {
+            "Tungsten": 200
+        }
+    },
+    "Resonant Headphones": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Snowbun Earmuffs": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "WeaverChest": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "WeaverLegs": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "WeaverFeet": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Frostshard": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Crystal Slammer": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Frostspire Kunai": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Frost Mark": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Crystal Cache": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Azure Tag": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Azure Prism": {
+        "map": "Ice Cave",
+        "materials": {
+            "Azurite": 100
+        }
+    },
+    "Snowman Head": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Reindeer Headband": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Festive Gift Box": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Mischief Gift Box": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "SantaHat": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "SantaChest": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "SantaLegs": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "SantaFeet": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "SantaGloves": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Reindeer Hood": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ReindeerChest": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ReindeerLegs": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ReindeerFeet": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ReindeerGloves": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ArcaneChest": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ArcaneLegs": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ArcaneFeet": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "ArcaneGloves": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Frostfang": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Everfrost Staff": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Crusader Staff": {
+        "map": "Ice Field",
+        "materials": {
+            "Candy Cane": 200
+        }
+    },
+    "Shuriken": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Energy Sword Blue": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Energy Sword Yellow": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Energy Sword Purple": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Plasma Sword Purple": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Plasma Sword Blue": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Plasma Sword Yellow": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Green Shell": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Blue Shell": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Red Shell": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "PlasmaChest": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "PlasmaLegs": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "PlasmaFeet": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Plasma Helmet": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Str": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Dex": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Int": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Vit": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Agi": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Leg_Luk": {
+        "map": "Island Dungeon",
+        "materials": {
+            "Oceanite": 200
+        }
+    },
+    "Sharkbite Hood": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Pirate Hat": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "PirateChest": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "PirateLegs": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "PirateFeet": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "PirateGloves": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Fruit Bowl": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "TurtleShell": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Hawkeye Crossbow": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Flintlock Pistol": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Quiver": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Earth Shield": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "IslandChest": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "IslandLegs": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "IslandFeet": {
+        "map": "Island",
+        "materials": {
+            "Coconut Oil": 75
+        }
+    },
+    "Springram Horns": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Verdant Antlers": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Azure Antlers": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Flame Spirit": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Broad Sword": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Iron Bulwark": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Guardblade": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Adventurer's Kit": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Ransack": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Amber Bow": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Fang Clip": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Stoneguard": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Fleetrunner": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Kunai": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Buckler": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Combat Knife": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Amber Loop": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Ferncloak": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Witchsteps": {
+        "map": "Labyrinth 4",
+        "materials": {
+            "Leaf": 50
+        }
+    },
+    "Chompy Hood": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Rusted Binocs": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Relic Trident": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Glimmerthorn": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Mana Potion": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Eye of Vigil": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Whale Backpack": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Heartloop Earring": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Raider's Painted Shield": {
+        "map": "Mystic Lake",
+        "materials": {
+            "Mushroom": 75
+        }
+    },
+    "Night Helm": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Night Shield": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Night Chest": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Night Legs": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Night Feet": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Axe of Oblivion": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Fang of the Moon": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Harvester of Souls": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Trident of Tides": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Blade of Eclipse": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Edge of Twilight": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Staff of Eternis": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Bloom of Midnight": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Wraith of Dawn": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Codex of Revelation": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Whisper of Thorns": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Silence of Night": {
+        "map": "Night Garden",
+        "materials": {
+            "Moonstone": 200
+        }
+    },
+    "Ventilator Mask": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Ninja Hood": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Sapphire Guard": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "StormplateChest": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "StormplateLegs": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "StormplateFeet": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Royal Fang": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Iron Morningstar": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Soul Reaper Scythe": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Elixir Gourd": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Oxygen Tank": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Nightfang Stud": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Shadowsteel Guard": {
+        "map": "Poison Cave",
+        "materials": {
+            "Silica Sand": 100
+        }
+    },
+    "Wizardry Hat": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Starbound Hat": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Dagger": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Spear": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Axe": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Slingshot": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Mechanical Core": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Plum Talisman": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Dawn Prayer": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "KnightChest": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "KnightLegs": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "KnightFeet": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Katar": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Scythe": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Harlequin's Hood": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Mitre of Sanctity": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Paladin Crest": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Sanctum Gloves": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Wand": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Hammer": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Sword": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Revolver": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Iron Halo": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Sanctum Guard": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Holy Staff": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Master Codex": {
+        "map": "Sanctum Throne",
+        "materials": {
+            "Antique Teacup": 100
+        }
+    },
+    "Runeborn Visor": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Bone Helm": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Death's Grin": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "BreezeguardChest": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "BreezeguardLegs": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "BreezeguardFeet": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Phantom Kunai": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Doom Crescent": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Repeater Crossbow": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Launcher": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Daggers": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Scalpel": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Emerald Guard": {
+        "map": "Swamp",
+        "materials": {
+            "Fishbone": 100
+        }
+    },
+    "Eyepatch": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Tinker Mask": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Piercer": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Bonefang": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Abyss Shard": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Lucky Drops": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Dino Cub Backpack": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "GravemarrowChest": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "GravemarrowLegs": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "GravemarrowFeet": {
+        "map": "Swamp",
+        "materials": {
+            "Larva": 75
+        }
+    },
+    "Frostscale Helm": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Safety Helmet": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "SafetyChest": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "SafetyLegs": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "SafetyFeet": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "SafetyGloves": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Str": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Dex": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Int": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Vit": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Agi": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Feet_Luk": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Life Staff": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Stormcall Kunai": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Triple Barrel Revolver": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Spirit Familiar": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    },
+    "Fortified Guardwall": {
+        "map": "Water Dungeon",
+        "materials": {
+            "Coral Stone": 200
+        }
+    }
+}

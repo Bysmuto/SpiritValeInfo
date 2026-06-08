@@ -3,16 +3,22 @@
     <BaseLayout>
         <h1 class="page-title">Equipment</h1>
 
-        <div class="filter-row">
+        <div class="filter-row flex gap-2">
             <MySelect
                 :options="optionsType"
                 placeholder="Type"
                 v-model="filterType"
                 @change="updateUrl"
             ></MySelect>
+            <MySelect
+                :options="optionsSort"
+                placeholder="Sort By"
+                v-model="sortOption"
+                @change="updateUrl"
+            ></MySelect>
         </div>
 
-        <div class="mb-3 w-full">
+        <div class="mb-3 w-full mt-3">
             <Input
                 placeholder="Search..."
                 v-model="filterText"
@@ -139,58 +145,98 @@ equipmentList.value = equipmentList.value.sort((e1, e2) => e1.DisplayName.locale
 const optionsType = [{ value: 'All', label: 'All (Type)' }];
 props.typeOptions.forEach((type) => optionsType.push({ value: type, label: type }));
 
+const optionsSort = [
+    { value: 'Name', label: 'Alphabetical (sort)' },
+    { value: 'Atk', label: 'Atk' },
+    { value: 'Crit', label: 'Crit' },
+    { value: 'CritDamage', label: 'Crit Damage' },
+    { value: 'AtkSpd', label: 'Atk Spd' },
+    { value: 'Matk', label: 'Matk' },
+    { value: 'Mp', label: 'Mp' },
+    { value: 'MpRegen', label: 'Mp Regen' },
+    { value: 'CastSpd', label: 'Cast Spd' },
+    { value: 'Hp', label: 'Hp' },
+    { value: 'HpRegen', label: 'Hp Regen' },
+    { value: 'Def', label: 'Def' },
+    { value: 'Mdef', label: 'Mdef' },
+    { value: 'Str', label: 'Str' },
+    { value: 'Vit', label: 'Vit' },
+    { value: 'Int', label: 'Int' },
+    { value: 'Agi', label: 'Agi' },
+    { value: 'Dex', label: 'Dex' },
+    { value: 'Luk', label: 'Luk' },
+    { value: 'MoveSpd', label: 'Move Spd' },
+    { value: 'LowestLv', label: 'Monster Lvl' },
+];
+
+const urlParams = new URLSearchParams(window.location.search);
 const filterType = ref(props.type);
 const filterText = ref(props.search);
+const sortOption = ref(urlParams.get('sort') || 'Name');
+
+
+
+const getStatValue = (equipment: Equipment, statPrefix: string) => {
+    const primary = equipment.PrimaryStats || equipment.statsPrimary || [];
+    const secondary = equipment.SecondaryStats || equipment.statsSecondary || [];
+    const allStats = [...primary, ...secondary];
+    
+    const foundStat = allStats.find((s: any) => s.Name && s.Name.startsWith(`${statPrefix}_`));
+    
+    return foundStat && (foundStat as any).Value ? (foundStat as any).Value.Value : 0;
+};
+
+const getLowestDropLevel = (equipment: Equipment) => {
+    if (!equipment.drops || equipment.drops.length === 0) {
+        return 9999;
+    }
+    return Math.min(...equipment.drops.map((d) => d.monster.level));
+};
 
 const filteredEquipmentList = computed(() => {
-    let filteredEquipmentList = equipmentList.value;
+    let result = equipmentList.value;
 
     if (filterType.value !== 'All') {
-        filteredEquipmentList = filteredEquipmentList.filter((e) => e.typeName === filterType.value);
+        result = result.filter((e) => e.typeName === filterType.value);
     }
 
     if (filterText.value !== '') {
-        filteredEquipmentList = filteredEquipmentList.filter((e) => {
-            if (e.DisplayName.toLowerCase().includes(filterText.value.toLowerCase())) {
-                return true;
-            }
-
-            if (e.typeName.toLowerCase().includes(filterText.value.toLowerCase())) {
-                return true;
-            }
-
+        const query = filterText.value.toLowerCase();
+        result = result.filter((e) => {
+            if (e.DisplayName.toLowerCase().includes(query)) return true;
+            if (e.typeName.toLowerCase().includes(query)) return true;
             for (const key in e.statsPrimary) {
-                const stat = e.statsPrimary[key];
-                if (stat.toLowerCase().includes(filterText.value.toLowerCase())) {
-                    return true;
-                }
+                if (e.statsPrimary[key].toLowerCase().includes(query)) return true;
             }
             for (const key in e.statsSecondary) {
-                const stat = e.statsSecondary[key];
-                if (stat.toLowerCase().includes(filterText.value.toLowerCase())) {
-                    return true;
-                }
+                if (e.statsSecondary[key].toLowerCase().includes(query)) return true;
             }
-
             return false;
         });
     }
 
-    return filteredEquipmentList;
+    return [...result].sort((a, b) => {
+        if (sortOption.value === 'Name') {
+            return a.DisplayName.localeCompare(b.DisplayName);
+        }
+        if (sortOption.value === 'LowestLv') {
+            return getLowestDropLevel(a) - getLowestDropLevel(b);
+        }
+        
+        return getStatValue(b, sortOption.value) - getStatValue(a, sortOption.value);
+    });
 });
 
 const updateUrl = () => {
     const searchParams = new URLSearchParams();
-    if (filterType.value !== 'All') {
-        searchParams.set('type', filterType.value);
-    }
-    if (filterText.value.trim() !== '') {
-        searchParams.set('search', filterText.value.trim());
-    }
+    if (filterType.value !== 'All') searchParams.set('type', filterType.value);
+    if (sortOption.value !== 'Name') searchParams.set('sort', sortOption.value);
+    if (filterText.value.trim() !== '') searchParams.set('search', filterText.value.trim());
     const query = searchParams.toString();
+
     if (query.length > 0) {
         window.history.replaceState(null, '', '/equipment?' + query);
-    } else if (window.location.search.length > 0) {
+    } else {
         window.history.replaceState(null, '', '/equipment');
     }
 };
